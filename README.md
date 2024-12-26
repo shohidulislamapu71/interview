@@ -1,4 +1,4 @@
-## How to Install the Inerview Project
+## How to Install the Interview Project
 
 ## Requirements
 
@@ -27,7 +27,7 @@ npm install
 npm run dev
 npm run prod
 php artisan serve
-http://127.0.0.1:8000 {Live link in your local windows server}
+http://127.0.0.1:8000 {Live link in your local Windows server}
 ````
 
 ## Task 1: Blog Post CRUD API (10 minutes)
